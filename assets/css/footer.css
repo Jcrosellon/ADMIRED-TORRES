@@ -1,0 +1,16 @@
+.footer {
+    background-color: #75625E;
+    color: #000000;
+    margin-block-end: 19px;
+    text-align: center;
+}
+
+/* Estilos para el enlace */
+.footer a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
